@@ -1,0 +1,12 @@
+.page-container {
+    position: absolute;
+    left: 0;
+    height: 100vh;
+    margin-top: 140px;
+    width: 100vw;
+    background-image: url("img/fundo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
