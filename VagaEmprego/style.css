@@ -1,0 +1,116 @@
+body {
+    background-image:url(img/blue-4k-warp-background-rlj56byhjvznamv0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    overflow: hidden;
+    
+}
+
+
+
+
+.Quadrado {
+    max-width: 660px;
+    margin: 50px auto;
+    background-color: #3d6ce3;
+    opacity: 81%;
+    padding: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 0 10px white;
+    max-width: 400px;
+    margin-top: 0px;
+    position:relative ;
+    width: 350px;
+    height: 730px;
+
+}
+
+
+.cabecalho{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    
+
+}
+
+
+
+.nome{
+    background-color: white;
+  
+}
+
+.titulo {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+
+
+h2 {
+    text-align: center;
+    color: #333333;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #ffffff;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.form-group input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.Enviar{
+    background-color: #45a049;
+    color: white;
+    margin-top: 20px;
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    display: flex;
+    margin: 50px auto;
+    transition: background-color 0.3s;
+}
+
+.Enviar:hover {
+    background-color: green;
+    transform: scale(1.1);
+
+}
+
+.miniTexto {
+    text-align: center;
+    margin-top: 20px;
+    color: #ffffff;
+}
+
+input {
+    height: 5px;
+}
